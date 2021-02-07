@@ -1,5 +1,6 @@
 # 6-Static-Node.js-and-Express-Site
-This project is a showcase that contains a snapshot of previous projects using Express. Click around and ### Make world a beautiful place.
+This project is a showcase that contains a snapshot of previous projects using Express. Click around and 
+### Make world a beautiful place.
 
 ## Screenshots:
 Here is some screenshots of the project:
@@ -11,4 +12,4 @@ Here is some screenshots of the project:
 ![not-found](public/image/noResultFound.png)
 
 3) When there is 500 server error
-![error](public/images/error.png)
+![error](public/image/error.png)
