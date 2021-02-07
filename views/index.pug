@@ -1,0 +1,15 @@
+extends layout.pug
+
+block content
+
+  article.portfolio-intro
+
+    h1 Lets make world a beautiful place 
+    p This are some of projects I have worked on:
+
+  article.portfolio-project-thumbs
+    .projects-box.box.grid
+      each project in projects        
+        a.cell(href=`/projects/${project.id}`)
+          img.thumbnail(src=`${project.images_url[0]}`, alt=`${project.project_name}`)
+          h5=project.project_name

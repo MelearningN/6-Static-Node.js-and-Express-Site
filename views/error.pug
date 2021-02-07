@@ -1,0 +1,15 @@
+
+block content
+  div.container
+    h1= message
+    nav.nav
+    a(href='/')
+      span &larr;
+      | Go Back
+    if err
+     if err.status===404
+       img(src="/image/noResultFound.png")
+     else
+       img(src="/image/error.png")
+    else
+     img(src="/image/noResultFound.png")

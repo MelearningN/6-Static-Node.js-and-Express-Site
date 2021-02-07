@@ -1,0 +1,32 @@
+extends layout.pug
+
+block content
+
+  nav.nav
+    a(href='/')
+      span &larr;
+      |  Back
+
+  article.portfolio-about
+    .inner-wrapper.flex-row-wrap.two-col
+      .about-intro-box.box
+
+        h1=myInfo.name
+        p=myInfo.title
+        .about-bio
+          p=myInfo.pitch
+      .skills-contact-box.box
+        h6 Skills
+        ul
+          each skill in myInfo.skills
+           li=skill
+        h6 Contact Info
+        ul
+          li=myInfo.email
+        a.btn-link(href=`${myInfo.linkedIn}`, target="_blank") LinkedIn
+        a.btn-link(href= `${myInfo.github}`, target="_blank") GitHub
+
+    nav.nav
+      a(href='/')
+        span &larr;
+        |  Back
