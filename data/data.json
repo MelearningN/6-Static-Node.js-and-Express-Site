@@ -5,8 +5,8 @@
         "project_name": "Random Quote Generator",
         "description": "This project generates random quotes every 3 seconds from list of 5 different quotes. Along with that it changes the background color.",
         "technologies": ["Vanilla JS", "CSS", "HTML"],
-        "live_link": "https://github.com/MelearningN/TreeHouse/blob/main/quotes.gif",
-        "github_link": "https://github.com/MelearningN/TreeHouse",
+        "live_link": "https://melearningn.github.io/Random-Quotes/",
+        "github_link": "https://github.com/MelearningN/Random-Quotes",
         "images_url": ["../image/project1_1.png","../image/project1_2.png"]
       },
       {
@@ -14,7 +14,7 @@
         "project_name": "Data Pagination and Filtering",
         "description": "This project uses plain JavaScript which displays max of 9 student cards on each page and on the bottom we have option to render different page numbers. The page number dynamically changes based on number of students available. Also, there is a search feature with which we can filter out specific student based on their first or last name.",
         "technologies": ["JS", "DOM manipulation", "CSS", "HTML"],
-        "live_link": "https://github.com/MelearningN/02-Data-pagination-and-filtering/blob/data-pagination/data-filtering.gif",
+        "live_link": "https://melearningn.github.io/02-Data-pagination-and-filtering/",
         "github_link": "https://github.com/MelearningN/02-Data-pagination-and-filtering",
         "images_url":["../image/project2_1.png", "../image/project2_2.png" ]
       },
@@ -23,7 +23,7 @@
         "project_name": "Interactive Form",
         "description": "This project basically showcases a form which validates all the input fields. There are some fields that are dynamically generated for eg: when user clicks job role as other or when user selects different themes for t-shirt design. In the end when user clicks submit button the program checks for all the fields to make sure nothing is left empty.",
         "technologies": ["JS", "Form validation", "Regex"],
-        "live_link":"https://github.com/MelearningN/interactive-form/blob/main/interactive-form.gif",
+        "live_link":"https://melearningn.github.io/interactive-form/",
         "github_link": "https://github.com/MelearningN/interactive-form",
         "images_url": ["../image/project3_1.png", "../image/project3_1.png"]
       },
@@ -32,7 +32,7 @@
         "project_name": "Game Show App",
         "description": "The game can be started by pressing start game button. The user can input by either clicking onscreen keyboard or by just typing on the keyboard. If user selects the correct key then that letter is displayed on all the places where it appears in the phrase. Otherwise user looses a life. If user guesses all the letters then winning screen appears otherwise losing screen appears. ENJOY!!",
         "technologies": ["JS", "OOP", "CSS" ],
-        "live_link": "https://github.com/MelearningN/OOP-Game-Show-App/blob/main/oopGame.gif",
+        "live_link": "https://melearningn.github.io/OOP-Game-Show-App/",
         "github_link": "https://github.com/MelearningN/OOP-Game-Show-App",
         "images_url": ["../image/project4_1.png", "../image/project4_1.png"]
       },
@@ -41,7 +41,7 @@
         "project_name": "Public API Requests",
         "description": "This project uses plain JavaScript which displays max of 9 student cards on each page and on the bottom we have option to render different page numbers. The page number dynamically changes based on number of students available. Also, there is a search feature with which we can filter out specific student based on their first or last name.",
         "technologies": ["Fetch-API", "JS", "CSS", "HTML"],
-        "live_link": "https://github.com/MelearningN/5-Public-API-Requests",
+        "live_link": "https://melearningn.github.io/5-Public-API-Requests/",
         "github_link": "https://github.com/MelearningN/5-Public-API-Requests",
         "images_url": ["../image/project5_1.png", "../image/project5_1.png"]
       }
